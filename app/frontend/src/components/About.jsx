@@ -22,19 +22,19 @@ export const About = () => {
 
           <div className="grid grid-cols-2 gap-4">
             <StoreImage
-              src="/images/store-1.jpg"
+              src="/images/store-1.png"
               alt={t.about.photoAlt}
               placeholderLabel={t.about.photoPlaceholder}
               className="col-span-2 aspect-[16/10] w-full rounded-2xl shadow-sm"
             />
             <StoreImage
-              src="/images/store-2.jpg"
+              src="/images/store-2.png"
               alt={t.about.photoAlt}
               placeholderLabel={t.about.photoPlaceholder}
               className="aspect-[4/3] w-full rounded-2xl shadow-sm"
             />
             <StoreImage
-              src="/images/store-3.jpg"
+              src="/images/store-3.png"
               alt={t.about.photoAlt}
               placeholderLabel={t.about.photoPlaceholder}
               className="aspect-[4/3] w-full rounded-2xl shadow-sm"
