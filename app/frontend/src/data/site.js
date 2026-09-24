@@ -1,7 +1,7 @@
 export const BUSINESS_NAME = "Manoj Kumar & Brothers";
 
-export const PHONE_DISPLAY = "+91 63944 52042";
-export const PHONE_TEL = "tel:+916394452042";
+export const PHONE_DISPLAY = "+91 90444 88462";
+export const PHONE_TEL = "tel:+919044488462";
 
 export const WHATSAPP_DISPLAY = "+91 93055 65746";
 export const WHATSAPP_URL =
@@ -13,8 +13,8 @@ export const EMAIL_URL = `mailto:${EMAIL}`;
 export const INSTAGRAM_URL = "https://www.instagram.com/rd_home_ms";
 
 export const ADDRESS_LINES = [
-  "Next to Hotel RD Inn,",
-  "Rasoolpur, Jaunpur Road,",
+  "Front of Saree Sansar,",
+  "Main Road, Jaunpur Road,",
   "Shahganj, Jaunpur,",
   "Uttar Pradesh, India",
 ];
@@ -27,7 +27,7 @@ export const ADDRESS_LINES = [
    Until replaced, the site shows a clearly marked map placeholder
    and the directions button falls back to a generic address search.
    ================================================================ */
-export const MAPS_EMBED_URL = "YOUR_GOOGLE_MAPS_EMBED_URL_HERE";
+export const MAPS_EMBED_URL = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d896.0912277585662!2d82.68135016961145!3d26.054328098573073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39905b2fc98bcc73%3A0x97a537a4765717a6!2z4KSu4KSo4KWL4KScIOCkleClgeCkruCkvuCksCDgpI_gpKPgpY3gpKEg4KSs4KWN4KSw4KSm4KSw4KWN4KS4!5e0!3m2!1sen!2sin!4v1790282729985!5m2!1sen!2sin";
 export const MAPS_DIRECTIONS_URL = "YOUR_GOOGLE_MAPS_DIRECTIONS_URL_HERE";
 
 export const DIRECTIONS_FALLBACK =
